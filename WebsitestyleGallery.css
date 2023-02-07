@@ -1,0 +1,31 @@
+title{
+    font-style:italic;
+}
+body{
+    background-color: lightseagreen;
+}
+ul:hover{
+    background-color: blueviolet;
+}
+h1{
+    color:pink;
+}
+.Bella{
+    width:500px;
+    height:500px;
+}
+h2{
+    color:purple;
+}
+.Sophie{
+    width:500px;
+    height:500px;
+}
+
+h3{
+    color:darkblue;
+}
+.Rosie{
+    width:500px;
+    height:500px;
+}

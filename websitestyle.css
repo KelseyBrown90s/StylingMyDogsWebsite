@@ -1,0 +1,35 @@
+title{
+    color:purple;
+}
+body{
+    background-color:lightcoral;
+}
+ul:hover{
+    background-color: blueviolet;
+}
+
+.Home{
+    font-style: italic;
+}
+
+p{
+    color:purple;
+}
+input{
+    font-size: larger;
+}
+table{
+    border-style: dotted;
+    border-color:black;
+}
+th,td{
+    padding: 10px;
+    text-align: center;
+    border-bottom: 3px solid black;
+}
+tr:nth-child(1n){
+    background-color:powderblue;
+}
+tr:hover{
+    background-color:blueviolet;
+}
