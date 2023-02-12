@@ -31,3 +31,4 @@ tr:nth-child(1n){
 tr:hover{
     background-color:blueviolet;
 }
+/* this code adds color,font,table, and size changes through classes and selectors*/
